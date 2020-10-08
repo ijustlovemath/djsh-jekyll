@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Jeremy, an electrical engineer from the mountains of Western North Carolina! I'm currently working on an [artificial pancreas][imt] for a small startup I cofounded, as the sole engineer ([for now!][hiring]).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I dig deep space robotics, climbing, and all the weird stuff you can pull off with Python!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If there's anything missing or incorrect or incoherent in the articles here, feel free to [send me an email][mailto:jcdejournett@gmail.com], or open a [pull request][pulls]. Thanks for coming by!
 
 
-[jekyll-organization]: https://github.com/jekyll
+[pulls]: https://github.com/ijustlovemath/djsh-jekyll/pulls
+[imt]: https://idealmedtech.com
+[hiring]: https://idealmedtech.com/careers

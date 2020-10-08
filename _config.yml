@@ -21,7 +21,7 @@
 title: '# ./dejournett.sh &'
 email: jcdejournett@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    This blog (and the server it's running on) is mainly for my own learning purposes, but will also have (hopefully) insightful technical articles related to whatever I'm currently working on. 
+    This blog (and the server it's running on) is mainly for my own learning purposes, but will also have (hopefully) insightful technical articles related to whatever I'm currently working on. Feel free to submit corrections!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
